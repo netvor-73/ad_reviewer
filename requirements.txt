@@ -5,6 +5,7 @@ Jinja2
 MarkupSafe
 Werkzeug
 numpy
-torch
+torch==1.8.0+cpu
+torchvision==0.9.0+cpu
 requests
 pillow
